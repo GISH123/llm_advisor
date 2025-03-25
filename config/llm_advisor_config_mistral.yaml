@@ -1,0 +1,5 @@
+# config/llm_advisor_config_mistral.yaml
+enabled: true
+model_path: "mistralai/Mistral-7B-v0.1"
+use_gpu: true
+max_new_tokens: 150
